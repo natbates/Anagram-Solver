@@ -1,0 +1,33 @@
+
+.title
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 5%;
+}
+
+#InputHolder
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border: black;
+    border-radius: 10px;
+}
+
+.LetterInput
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+}
+
+.Letter
+{
+    padding: 10px;
+    width: 50px;
+    height: 50px;
+}
